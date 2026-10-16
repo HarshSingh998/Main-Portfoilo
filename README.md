@@ -1,71 +1,71 @@
-# [abdulrehmanwaseem](https://abdulrehmanwaseem.me)
+# [Harsh Singh](https://main-portfolio-seven-phi.vercel.app/) — Portfolio
 
-A minimal, pixel-perfect dev portfolio, blog and products to showcase my work as a Fullstack developer.
+A minimal, pixel-perfect personal developer portfolio showcasing my journey, projects, problem-solving progress, and certifications as a First-Year CSE Student and Aspiring Software Engineer.
 
-Check out the live site: [abdulrehmanwaseem](https://abdulrehmanwaseem.me)
+**Live Site:** [https://main-portfolio-seven-phi.vercel.app/](https://main-portfolio-seven-phi.vercel.app/)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/be67ffb8-2511-4f5c-912e-270266ef928a">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/609c66b3-4f89-46d5-8de9-0f8bf18529cb">
-  <img src="https://github.com/user-attachments/assets/609c66b3-4f89-46d5-8de9-0f8bf18529cb" alt="Screenshot">
-</picture>
+---
 
-## Overview
+## About Me
 
-### Stack
+I am a first-year Computer Science Engineering student at **ALTA School of Technology, Indore** (in collaboration with **Sage University**). I am currently building my core programming fundamentals with **C++** and sharpening my problem-solving skills with **Data Structures & Algorithms (DSA)**.
 
-- Next.js 15
-- Tailwind CSS v4
-- shadcn/ui
+- **GitHub:** [@HarshSingh998](https://github.com/HarshSingh998)
+- **LeetCode:** [@Harshsingh998](https://leetcode.com/u/Harshsingh998/)
+- **Codeforces:** [@Harshsingh_009](https://codeforces.com/profile/Harshsingh_009)
+- **LinkedIn:** [harsh-----singh](https://www.linkedin.com/in/harsh-----singh/)
+- **Instagram:** [@h_rsh_99](https://www.instagram.com/h_rsh_99)
 
-### Featured
+---
 
-- Clean & modern design
-- Light/Dark themes
-- vCard integration
-- SEO optimized ([JSON-LD schema](https://json-ld.org), sitemap, robots)
-- AI-ready with [/llms.txt](https://llmstxt.org)
-- Spam-protected email
-- Installable as PWA
+## Tech Stack & Skills
 
-### Blog
+- **Languages:** C++, Python
+- **Core CS:** Data Structures and Algorithms, Problem Solving, Programming Fundamentals
+- **Tools & Platforms:** Git, GitHub, VS Code, Next.js, Tailwind CSS
+- **Exploring:** Full Stack Development, Backend Development, Artificial Intelligence
 
-- Supports MDX & Markdown
-- Raw `.mdx` endpoints for AI readability
-- Syntax highlighting for clear code presentation
-- Dynamic OG images for rich link previews
-- RSS feed for easy content distribution
+---
 
-### Registry
+## Featured Highlights
 
-Easily build and distribute reusable components, hooks, and pages using a custom registry powered by the [shadcn CLI](https://ui.shadcn.com/docs/cli).
+- **Projects:**
+  - **ALTA BASE 111:** A daily coding consistency challenge focused on problem-solving and programming fundamentals.
+  - **LeetCode Solutions:** A repository of my C++ solutions strengthening DSA concepts and algorithms.
+- **Certificates & Competitions:**
+  - **CODESPRINT'26 (ARKFEST 2026):** ICA Sunstone & SAGE University Indore
+  - **Build Your Fest Stall Edition:** Google Student Ambassador Program
+  - **PromptWars × ADYPU:** GDG Pune AI Hackathon
+  - **ALTA AI CodeSprint:** Certificate Awaited
 
-Each entry is well-documented and includes:
+---
 
-- Live preview & code snippets
-- Beautiful, readable code blocks
-- One-click command blocks (pnpm, npm, yarn, bun)
+## Features
 
-## Development
+- **Responsive & Modern UI:** Designed with pixel-perfect attention to typography, margins, and layout.
+- **Dark & Light Mode:** Seamless theme switching with audio feedback.
+- **Command Palette (`⌘K` / `Ctrl K`):** Quick navigation across sections, external profiles, and themes.
+- **Education Milestones:** Highlighting B.Tech (2026–2030) and school achievements.
+- **SEO & PWA Ready:** Open Graph metadata, sitemap, manifest, and vCard integration.
 
-Please refer to the [Development Guide](./DEVELOPMENT.md) for more details.
+---
 
-## License
+## Getting Started
 
-Licensed under the [MIT license](./LICENSE).
 
-You're free to use my code! Just make sure to <ins>remove all my personal information</ins> before publishing your website. It's awesome to see my code being useful to someone!
+### Prerequisites
 
-## Acknowledgments
+- Node.js 18+ or 20+
+- pnpm (recommended) or npm
 
-- [React](https://react.dev)
-- [Next.js](https://nextjs.org)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Radix UI](https://www.radix-ui.com)
-- [Motion](https://motion.dev)
-- [shadcn/ui](https://ui.shadcn.com)
-- [Aceternity UI](https://ui.aceternity.com)
-- [Lucide](https://lucide.dev)
-- [Fumadocs](https://fumadocs.dev)
-- And many other open-source libraries used in `package.json`
-# Main-Portfoilo
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/HarshSingh998/portfolio.git
+
+# Navigate to the folder
+cd "Main Portfolio"
+
+# Install dependencies
+pnpm install
