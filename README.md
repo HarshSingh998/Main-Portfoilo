@@ -69,3 +69,6 @@ cd "Main Portfolio"
 
 # Install dependencies
 pnpm install
+
+
+
